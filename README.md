@@ -24,7 +24,7 @@
 ### Kode diatas yaitu BusanaService yaitu untuk mengimpor Busana dari package model sehingga dapat membuat dan memanipulasi objek Busana. ArrayList digunakan untuk menyimpan semua Busana sementara di memory dan Scanner digunakan untuk membaca input.
 
 <img width="922" height="86" alt="image" src="https://github.com/user-attachments/assets/48ece48a-b28c-4146-b3a7-43443a2f4251" />
-### method Create yaitu meminta pelanggan untuk mengisi semua atribut yang tersedia. jika input data dari pelanggan valid, dibuat objek Busana baru dengan ID Busana dan dimasukkan ke list.
+### Dibuat list Busana untuk menyimpan data . Setiap operasi CRUD nanti akan memanipulasi list ini.
 
 <img width="924" height="622" alt="image" src="https://github.com/user-attachments/assets/53983fc9-7f09-4239-9546-82932d7a6ea9" />
 ## method Create yaitu meminta pelanggan untuk mengisi semua atribut yang tersedia. jika input data dari pelanggan valid, dibuat objek Busana baru dengan ID Busana dan dimasukkan ke list.
