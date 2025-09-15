@@ -38,10 +38,10 @@
 <img width="1055" height="329" alt="image" src="https://github.com/user-attachments/assets/72f7c7d3-02ab-40f7-8113-6a32e54e0026" />
 ### Method ini dideklatrasikan public agar bisa dipanggil dari package lain, misalnya dari class Min. Method ini tidak mengembalikan nilai karena tujuannya adalah menampilkan hasil pencarian langsung. Jika tidak ada satu pun yang cocok (false), program menampilkan pesan bahwa tidak ada data yang sesuai.
 
-# Class Main
-
 <img width="1051" height="495" alt="image" src="https://github.com/user-attachments/assets/bbdc829d-c787-4839-b470-f61d5d46d4b5" />
+### Method ini dideklatrasikan public agar bisa dipanggil dari package lain, misalnya dari class Min. Method ini tidak mengembalikan nilai karena tujuannya adalah menampilkan hasil pencarian langsung. Jika tidak ada satu pun yang cocok (false), program menampilkan pesan bahwa tidak ada data yang sesuai.
 
+# Class Main
 
 <img width="477" height="89" alt="image" src="https://github.com/user-attachments/assets/91c49628-517b-4c01-a047-d427ef74754c" />
 ### kode di atas menandakan lass MainApp berada dalam package Main. Dengan ini, package lain harus melakukan import untuk bisa mengakses MainApp. Package Main berfungsi sebagai View dalam arsitektur MVC, tempat menampilkan menu dan menerima input user..
