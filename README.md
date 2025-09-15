@@ -41,19 +41,19 @@
 # Class Main
 
 <img width="1051" height="495" alt="image" src="https://github.com/user-attachments/assets/bbdc829d-c787-4839-b470-f61d5d46d4b5" />
-### kode di atas menandakan lass MainApp berada dalam package Main. Dengan ini, package lain harus melakukan import untuk bisa mengakses MainApp. Package Main berfungsi sebagai View dalam arsitektur MVC, tempat menampilkan menu dan menerima input user.
+
 
 <img width="477" height="89" alt="image" src="https://github.com/user-attachments/assets/91c49628-517b-4c01-a047-d427ef74754c" />
-### Class Main dideklarasikan public agar bisa diakses dari luar package, dan method main adalah titik awal program dijalankan oleh Java. Semua alur program dimulai dari sini. kemudian dibuat objek scanner untuk membaca input dari user, ini menjadi kontrol alur program, apakah user ingin menambah, menampilkan, mengubah, menghapus, mencari data, atau keluar.
+### kode di atas menandakan lass MainApp berada dalam package Main. Dengan ini, package lain harus melakukan import untuk bisa mengakses MainApp. Package Main berfungsi sebagai View dalam arsitektur MVC, tempat menampilkan menu dan menerima input user..
 
 <img width="731" height="168" alt="image" src="https://github.com/user-attachments/assets/ece7ad68-0613-4738-a1be-dd34abc91215" />
-### kode di atas adalah bagian menu utama ditampilkan ke user. setiap opsi menu diarahkan untuk menjalankan method tertentu di service. User bisa melihat pilihan dan menentukan operasi yang ingin dilakukan.
+### Class Main dideklarasikan public agar bisa diakses dari luar package, dan method main adalah titik awal program dijalankan oleh Java. Semua alur program dimulai dari sini. kemudian dibuat objek scanner untuk membaca input dari user, ini menjadi kontrol alur program, apakah user ingin menambah, menampilkan, mengubah, menghapus, mencari data, atau keluar.
 
 <img width="865" height="300" alt="image" src="https://github.com/user-attachments/assets/7a943fed-efe4-4a2c-95d3-30e24c36f9bd" />
-### bagian kode ini adalah pengendali menu utama. Switch case mengecek pilihan user dan memanggil method yang sesuai di Busana untuk menambah, menampilkan, mengubah, menghapus, atau mencari Busana. pilihan 6 menghentikan program, sedangkan input yang tidak valid akan menampilkan pesan error.
+### kode di atas adalah bagian menu utama ditampilkan ke user. setiap opsi menu diarahkan untuk menjalankan method tertentu di service. User bisa melihat pilihan dan menentukan operasi yang ingin dilakukan.
 
 <img width="1046" height="326" alt="image" src="https://github.com/user-attachments/assets/165e046b-bfc4-458a-a03b-83872b824065" />
-
+### bagian kode ini adalah pengendali menu utama. Switch case mengecek pilihan user dan memanggil method yang sesuai di Busana untuk menambah, menampilkan, mengubah, menghapus, atau mencari Busana. pilihan 6 menghentikan program, sedangkan input yang tidak valid akan menampilkan pesan error.
 
 <img width="401" height="204" alt="image" src="https://github.com/user-attachments/assets/d7ce4f94-eb9d-4f1f-9746-884310813637" />
 ### Output dari Main
