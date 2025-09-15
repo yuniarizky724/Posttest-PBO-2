@@ -3,6 +3,7 @@
 ### Program ini dibuat dengan aplikasi Java untuk mengelola data penyewa busana di butik. fitur yang tersedia meliputi menambah pesanan, melihat daftar pesanan, mengubah dan menghapus data. Sedangkan semua data disimpan dalam ArrayList. program ini berjalan berulang dan akan berakhir hingga pengguna memilih menu keluar.
 
 # Class Busana
+
 <img width="466" height="231" alt="image" src="https://github.com/user-attachments/assets/98c818c9-11d3-4de7-ac52-46019a974fef" />
 ### Program ini dibuat dengan menggunakan struktur MVC (Model View Controller), yang mana setiap  3 package memiliki peran tanggung jawab spesifik.
 ### - Package Model
@@ -13,7 +14,7 @@
 ### Class Busana dideklarasikan sebagai public agar dappat diakses dari package lain dengan 3 atribut.
 
 <img width="765" height="162" alt="image" src="https://github.com/user-attachments/assets/81fdf4b8-511e-4ccd-bd49-132aaeef9b68" />
-### COnstructor dipakai untuk membuat objek baru. Kata kunci this digunakan untuk membedakan antara atribut class dan parameter constructor yang memiliki nama sama.
+### Constructor dipakai untuk membuat objek baru. Kata kunci this digunakan untuk membedakan antara atribut class dan parameter constructor yang memiliki nama sama.
 
 <img width="780" height="572" alt="image" src="https://github.com/user-attachments/assets/a1f56aa5-a670-4061-8c9a-2290cbd65cfb" />
 ### Getter digunakan untuk membaca nilai dan atribut, sedangkan setter digunakan untuk mengubah nilai pada atribut yang tersedia.
