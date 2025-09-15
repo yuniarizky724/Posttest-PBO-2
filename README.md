@@ -27,16 +27,16 @@
 ### method Create yaitu meminta pelanggan untuk mengisi semua atribut yang tersedia. jika input data dari pelanggan valid, dibuat objek Busana baru dengan ID Busana dan dimasukkan ke list.
 
 <img width="924" height="622" alt="image" src="https://github.com/user-attachments/assets/53983fc9-7f09-4239-9546-82932d7a6ea9" />
-### Method ini yaitu untuk menampilkan Busana. Jika list kosong, method berhenti. Alurnya membaca data dari model dan menampilkannya ke terminal atau output.
+## method Create yaitu meminta pelanggan untuk mengisi semua atribut yang tersedia. jika input data dari pelanggan valid, dibuat objek Busana baru dengan ID Busana dan dimasukkan ke list.
 
 <img width="850" height="279" alt="image" src="https://github.com/user-attachments/assets/c95a62a5-7cfb-4590-a129-786d5819dad4" />
-### Method update meminta ID Busana yang harus diperbarui. 
+### Method ini yaitu untuk menampilkan Busana. Jika list kosong, method berhenti. Alurnya membaca data dari model dan menampilkannya ke terminal atau output.
 
 <img width="1049" height="569" alt="image" src="https://github.com/user-attachments/assets/6d0d0218-1be0-4eeb-a344-2d0490e1356b" />
-### Method Delete meminta ID, mencari objek list, dan menghapusnya jika ditemukan.
+### Method update meminta ID Busana yang harus diperbarui. 
 
 <img width="1055" height="329" alt="image" src="https://github.com/user-attachments/assets/72f7c7d3-02ab-40f7-8113-6a32e54e0026" />
-### Method ini dideklatrasikan public agar bisa dipanggil dari package lain, misalnya dari class Min. Method ini tidak mengembalikan nilai karena tujuannya adalah menampilkan hasil pencarian langsung. Jika tidak ada satu pun yang cocok (false), program menampilkan pesan bahwa tidak ada data yang sesuai.
+### Method Delete meminta ID, mencari objek list, dan menghapusnya jika ditemukan.
 
 <img width="1051" height="495" alt="image" src="https://github.com/user-attachments/assets/bbdc829d-c787-4839-b470-f61d5d46d4b5" />
 ### Method ini dideklatrasikan public agar bisa dipanggil dari package lain, misalnya dari class Min. Method ini tidak mengembalikan nilai karena tujuannya adalah menampilkan hasil pencarian langsung. Jika tidak ada satu pun yang cocok (false), program menampilkan pesan bahwa tidak ada data yang sesuai.
